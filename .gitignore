@@ -1,0 +1,10 @@
+# Binaries
+fleet_agent
+*.o
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
